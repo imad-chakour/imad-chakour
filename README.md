@@ -11,7 +11,7 @@
 * 🚀 Automated business scoring and eligibility processes to eliminate manual operations.
 * 🌱 Interested in software architecture, cloud technologies, API development and AI-powered applications.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,python,react,docker,git,github,mysql,postgres,azure\&theme=light)](https://skillicons.dev)
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <table>
   <tr>
@@ -57,13 +57,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imad-chakour\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🎯 Currently Interested In
+## Currently Interested In
 
 * Building scalable backend applications with Java and Spring Boot.
 * Designing and integrating RESTful APIs.
@@ -74,7 +74,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 * 💼 **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/)
 * 🐙 **GitHub:** [imad-chakour](https://github.com/imad-chakour)
