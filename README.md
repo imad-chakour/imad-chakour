@@ -76,9 +76,8 @@
 
 ## Let's Connect
 
-* 💼 **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/)
-* 🐙 **GitHub:** [imad-chakour](https://github.com/imad-chakour)
-* 📧 **Email:** chakourimad01@gmail.com
+* **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/)<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+* **Email:** chakourimad01@gmail.com<img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 
 ---
 
