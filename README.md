@@ -5,10 +5,6 @@
 ## About Me
 
 * State Engineer in Computer Science and Networks, specializing in MIAGE.
-* Developed a cloud-native extension on SAP BTP during my end-of-studies internship at OCP Group.
-* Built backend services using Java, Spring Boot and SAP CAP, with business logic modeled in BPMN 2.0.
-* Designed REST APIs consumed by an external Angular frontend.
-* Automated business scoring and eligibility processes to eliminate manual operations.
 * Interested in software architecture, cloud technologies, API development and AI-powered applications.
 
 ## Tech Stack
