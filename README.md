@@ -4,22 +4,22 @@
 
 ## About Me
 
-* 🎓 State Engineer in Computer Science and Networks, specializing in MIAGE.
-* 💻 Developed a cloud-native extension on SAP BTP during my end-of-studies internship at OCP Group.
-* ⚙️ Built backend services using Java, Spring Boot and SAP CAP, with business logic modeled in BPMN 2.0.
-* 🔗 Designed REST APIs consumed by an external Angular frontend.
-* 🚀 Automated business scoring and eligibility processes to eliminate manual operations.
-* 🌱 Interested in software architecture, cloud technologies, API development and AI-powered applications.
+* State Engineer in Computer Science and Networks, specializing in MIAGE.
+* Developed a cloud-native extension on SAP BTP during my end-of-studies internship at OCP Group.
+* Built backend services using Java, Spring Boot and SAP CAP, with business logic modeled in BPMN 2.0.
+* Designed REST APIs consumed by an external Angular frontend.
+* Automated business scoring and eligibility processes to eliminate manual operations.
+* Interested in software architecture, cloud technologies, API development and AI-powered applications.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,python,react,docker,git,github,mysql,postgres,azure\&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,sql&theme=light)](https://skillicons.dev)
 
 **Backend:** Java, Spring Boot, SAP CAP, REST APIs
 
 **Frontend:** Angular, TypeScript, JavaScript, React, HTML5, CSS3
 
-**SAP & Cloud:** SAP BTP, SAP CAP, OData V4, Cloud-Native Development
+**SAP & Cloud:** SAP BTP, SAP CAP, Azure
 
 **Modeling:** BPMN 2.0, UML
 
@@ -31,53 +31,37 @@
 
 ## Featured Project
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <h3>☁️ Cloud-Native Employee Services Extension</h3>
-      <p><strong>OCP Group | End-of-Studies Project · 2026</strong></p>
-      <p>
-        Developed a cloud-native extension on SAP BTP to manage employee services and benefits.
-        Implemented backend business logic using Java, Spring Boot and SAP CAP,
-        modeled business workflows with BPMN 2.0, and exposed REST APIs consumed
-        by an Angular frontend.
-      </p>
-      <p>
-        <strong>Key Contributions</strong><br/>
-        Backend development · REST API design · Angular integration ·
-        BPMN workflow modeling · Scoring and eligibility automation
-      </p>
-      <p>
-        <strong>Technologies:</strong> Java, Spring Boot, SAP CAP, SAP BTP,
-        Angular, REST APIs, BPMN 2.0
-      </p>
-    </td>
-  </tr>
-</table>
+### ☁️ Cloud-Native Employee Services Extension
+
+**OCP Group | End-of-Studies Project · 2026**
+
+Developed a cloud-native extension on SAP BTP to manage employee services and benefits. I implemented backend business logic with Java, Spring Boot, and SAP CAP, modeled workflows using BPMN 2.0, and exposed REST APIs consumed by an Angular frontend.
+
+**Key Contributions:** Backend development · REST API design · Angular integration · BPMN workflow modeling · Scoring and eligibility automation
+
+**Technologies:** Java, Spring Boot, SAP CAP, SAP BTP, Angular, REST APIs, BPMN 2.0
 
 ---
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imad-chakour\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=imad-chakour&theme=tokyonight&hide_border=true)
 
 ---
 
 ## Currently Interested In
 
 * Building scalable backend applications with Java and Spring Boot.
-* Designing and integrating RESTful APIs.
 * Developing full-stack applications with Angular.
 * Exploring cloud-native architectures and DevOps practices.
-* Applying AI and automation to real-world business problems.
 * Improving software quality, maintainability and application performance.
 
 ---
 
 ## Let's Connect
 
-* **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/)<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-* **Email:** chakourimad01@gmail.com<img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+* **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/) <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+* **Email:** [chakourimad01@gmail.com](mailto:chakourimad01@gmail.com) <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 
 ---
 
