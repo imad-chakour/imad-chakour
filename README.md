@@ -1,6 +1,6 @@
 # 👨‍💻 Imad Chakour
 
-**`Software Engineer | Java & Spring Boot | Angular | Cloud-Native Applications`**
+**Software Engineer | Java & Spring Boot | Angular | Cloud-Native Applications**
 
 ## About Me
 
@@ -11,15 +11,20 @@
 * 🚀 Automated business scoring and eligibility processes to eliminate manual operations.
 * 🌱 Interested in software architecture, cloud technologies, API development and AI-powered applications.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,python,react,docker,git,github,mysql,postgres,azure\&theme=light)](https://skillicons.dev)
 
 **Backend:** Java, Spring Boot, SAP CAP, REST APIs
+
 **Frontend:** Angular, TypeScript, JavaScript, React, HTML5, CSS3
+
 **SAP & Cloud:** SAP BTP, SAP CAP, OData V4, Cloud-Native Development
+
 **Modeling:** BPMN 2.0, UML
+
 **Databases:** SQL, MySQL, Oracle
+
 **Tools & Practices:** Git, GitHub, Docker, CI/CD concepts, API Integration
 
 ---
@@ -38,7 +43,7 @@
         by an Angular frontend.
       </p>
       <p>
-        <strong>Key contributions</strong><br/>
+        <strong>Key Contributions</strong><br/>
         Backend development · REST API design · Angular integration ·
         BPMN workflow modeling · Scoring and eligibility automation
       </p>
@@ -56,13 +61,11 @@
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imad-chakour\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-chakour\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=imad-chakour\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -80,8 +83,8 @@
 ## 🤝 Let's Connect
 
 * 💼 **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/)
-* 🐙 **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* 📧 **Email:** Add your professional email address here.
+* 🐙 **GitHub:** [imad-chakour](https://github.com/imad-chakour)
+* 📧 **Email:** chakourimad01@gmail.com
 
 ---
 
