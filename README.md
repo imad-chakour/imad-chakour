@@ -60,8 +60,12 @@ Developed a cloud-native extension on SAP BTP to manage employee services and be
 
 ## Let's Connect
 
-* **LinkedIn:** [Imad Chakour](https://www.linkedin.com/in/imadchakour/) <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-* **Email:** [chakourimad01@gmail.com](mailto:chakourimad01@gmail.com) <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+<a href="https://www.linkedin.com/in/imadchakour/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="chakourimad01@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+</a>
 
 ---
 
