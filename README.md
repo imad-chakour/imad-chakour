@@ -55,8 +55,6 @@
   </tr>
 </table>
 
-> Note: This project was completed at OCP Group. Add a repository link only if you have a public version that you are authorized to share.
-
 ---
 
 ## 📊 GitHub Stats
