@@ -1,4 +1,4 @@
-# 👨‍💻 Imad Chakour
+# Imad Chakour
 
 **Software Engineer | Java & Spring Boot | Angular | Cloud-Native Applications**
 
