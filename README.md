@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Imad Chakour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="Waving hand" /></h1>
-<h3 align="center">Crafting Backend Solutions with Java & Spring Boot</h3>
+<h3 align="center">Building with Java, Spring Boot & Oracle Cloud</h3>
 
 <p align="center">Building backend applications, REST APIs and microservices with Java and Spring Boot. Hands-on experience with enterprise projects, multi-protocol integrations and cloud deployment on Oracle Cloud Infrastructure (OCI).</p>
 
