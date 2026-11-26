@@ -51,5 +51,5 @@
   <a href="https://www.linkedin.com/in/imadchakour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
 </p>
----
+
 <p align="center">Open to building thoughtful software and connecting with fellow developers.</p>
