@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,python,docker,git,mysql&theme=light" alt="Java, Spring, Angular, TypeScript, React, Python, Docker, Git, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,docker,git,oracle&theme=light" alt="Java, Spring, Angular, React, Docker, Git, and Oracle" />
 </p>
 
 <p align="center">
@@ -14,16 +14,12 @@
   <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imad-chakour&label=Profile%20views&color=2F81F7&style=flat" alt="Live profile view counter" />
-</p>
-
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/imad-chakour/bank-service-multi-connector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=bank-service-multi-connector&theme=github_dark&hide_border=true" width="32%" alt="Banking Service project preview" /></a>
-  <a href="https://github.com/imad-chakour/eventflow-angular-springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=eventflow-angular-springboot&theme=github_dark&hide_border=true" width="32%" alt="EventFlow project preview" /></a>
-  <a href="https://github.com/imad-chakour/java-clinic-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=java-clinic-management-system&theme=github_dark&hide_border=true" width="32%" alt="Smart Clinic project preview" /></a>
+  <a href="https://banklink-imad.duckdns.org"><img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://banklink-imad.duckdns.org" width="32%" alt="Live Banking Service application preview" /></a>
+  <a href="https://eventflow-imad.duckdns.org"><img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://eventflow-imad.duckdns.org" width="32%" alt="Live EventFlow application preview" /></a>
+  <a href="https://clinic-imad.duckdns.org"><img src="https://image.thum.io/get/width/600/crop/400/noanimate/https://clinic-imad.duckdns.org" width="32%" alt="Live Smart Clinic application preview" /></a>
 </p>
 
 <p align="center">
