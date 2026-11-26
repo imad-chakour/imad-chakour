@@ -20,17 +20,37 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/imad-chakour/bank-service-multi-connector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=bank-service-multi-connector&theme=github_dark&hide_border=true" width="32%" alt="Banking Service project preview" /></a>
-  <a href="https://github.com/imad-chakour/eventflow-angular-springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=eventflow-angular-springboot&theme=github_dark&hide_border=true" width="32%" alt="EventFlow project preview" /></a>
-  <a href="https://github.com/imad-chakour/java-clinic-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=java-clinic-management-system&theme=github_dark&hide_border=true" width="32%" alt="Smart Clinic project preview" /></a>
-</p>
-
-<p align="center">
-  <a href="https://banklink-imad.duckdns.org">Banking demo</a> ·
-  <a href="https://eventflow-imad.duckdns.org">EventFlow demo</a> ·
-  <a href="https://clinic-imad.duckdns.org">Smart Clinic demo</a>
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/imad-chakour/bank-service-multi-connector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=bank-service-multi-connector&theme=github_dark&hide_border=true" width="100%" alt="Banking Service project preview" />
+      </a>
+      <h3>Multi-Connector Banking Service</h3>
+      <p>A banking platform with REST, SOAP, GraphQL, and gRPC APIs, built with Spring Boot and React.</p>
+      <a href="https://banklink-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/bank-service-multi-connector">Source code</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/imad-chakour/eventflow-angular-springboot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=eventflow-angular-springboot&theme=github_dark&hide_border=true" width="100%" alt="EventFlow project preview" />
+      </a>
+      <h3>EventFlow</h3>
+      <p>An event and marketing platform built with Angular and Spring Boot.</p>
+      <a href="https://eventflow-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/eventflow-angular-springboot">Source code</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/imad-chakour/java-clinic-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=java-clinic-management-system&theme=github_dark&hide_border=true" width="100%" alt="Smart Clinic project preview" />
+      </a>
+      <h3>Smart Clinic</h3>
+      <p>A clinic app for managing patients, doctors, and appointments.</p>
+      <a href="https://clinic-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/java-clinic-management-system">Source code</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
