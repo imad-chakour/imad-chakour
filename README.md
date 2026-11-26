@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Imad Chakour</h1>
 
-<h3 align="center">Software Engineer | Java &amp; Spring Boot</h3>
+<h3 align="center">Software Engineer | Backend Java &amp; Spring Boot</h3>
 
 <p align="center">OCP Java SE 17 · Oracle Database 19c</p>
+
+<p align="center">Oracle Certified Professional: Java SE 17 Developer. Experienced in building backend applications, REST APIs and microservices using Java and Spring Boot, with hands-on experience in cloud deployment on Oracle Cloud Infrastructure (OCI).</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,docker,git,linux,githubactions&theme=light" alt="Java, Spring, Angular, React, Docker, Git, Linux, and GitHub Actions" />
