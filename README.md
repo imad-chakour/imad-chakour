@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Imad Chakour</h1>
+<h1 align="center">Hey, I'm Imad Chakour 👋</h1>
+<h3 align="center">Crafting Backend Solutions with Java & Spring Boot</h3>
 
-<h3 align="center">Software Engineer | Backend Java &amp; Spring Boot</h3>
-
-<p align="center">OCP Java SE 17 · Oracle Database 19c</p>
-
-<p align="center">Oracle Certified Professional: Java SE 17 Developer. Experienced in building backend applications, REST APIs and microservices using Java and Spring Boot, with hands-on experience in cloud deployment on Oracle Cloud Infrastructure (OCI).</p>
+<p align="center">Building backend applications, REST APIs and microservices with Java and Spring Boot. Hands-on experience with enterprise projects, multi-protocol integrations and cloud deployment on Oracle Cloud Infrastructure (OCI).</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,docker,git,linux,githubactions&theme=light" alt="Java, Spring, Angular, React, Docker, Git, Linux, and GitHub Actions" />
@@ -13,12 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle Database" />
   <img src="https://img.shields.io/badge/Cloud-OCI-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/imad-chakour"><img src="https://img.shields.io/github/followers/imad-chakour?label=Follow&style=social" alt="Follow Imad Chakour on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/imadchakour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -55,6 +46,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/imad-chakour"><img src="https://img.shields.io/github/followers/imad-chakour?label=Follow&style=social" alt="Follow Imad Chakour on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/imadchakour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
+</p>
 ---
 
 <p align="center">Open to building thoughtful software and connecting with fellow developers.</p>
