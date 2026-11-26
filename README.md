@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,oracle&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, and Oracle" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,linux,githubactions,postgres&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, Linux, GitHub Actions, and PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle Database" />
+  <img src="https://img.shields.io/badge/Cloud-OCI-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
 </p>
 
 <p align="center">
