@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Imad Chakour</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;OCP+Java+SE+17+%7C+Oracle+DB+19c" alt="Animated title: Software Engineer, Java and Spring Boot, OCP Java SE 17, Oracle DB 19c" />
-</p>
+<h3 align="center">Software Engineer | Java &amp; Spring Boot</h3>
+
+<p align="center">OCP Java SE 17 · Oracle Database 19c</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,linux,githubactions,postgres&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, Linux, GitHub Actions, and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,linux,githubactions&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, Linux, GitHub Actions" />
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
   <a href="https://github.com/imad-chakour"><img src="https://img.shields.io/github/followers/imad-chakour?label=Follow&style=social" alt="Follow Imad Chakour on GitHub" /></a>
   <a href="https://www.linkedin.com/in/imadchakour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imad-chakour&label=Profile%20views&color=2F81F7&style=flat" alt="Live profile view counter" />
 </p>
 
 <h2 align="center">Featured Projects</h2>
