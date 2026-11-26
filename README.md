@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,python,docker,git,mysql&theme=light" alt="Java, Spring, Angular, TypeScript, React, Python, Docker, Git, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,oracle&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, and Oracle" />
 </p>
 
 <p align="center">
