@@ -1,68 +1,72 @@
-# Imad Chakour
+# 👋 Hi, I'm Imad Chakour
 
-**Software Engineer | Java & Spring Boot | Angular | Cloud-Native Applications**
+### Software Engineer | Java & Spring Boot | Angular | Cloud-Native Applications
 
-## About Me
+Computer Science and Networks State Engineer specializing in MIAGE. I build useful full-stack products and reliable backend services, from the first design to deployment.
 
-* State Engineer in Computer Science and Networks, specializing in MIAGE.
-* Interested in software architecture, cloud technologies, API development and AI-powered applications.
+<p>
+  <a href="https://github.com/imad-chakour"><img src="https://img.shields.io/github/followers/imad-chakour?label=Follow&style=social" alt="Follow Imad Chakour on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/imadchakour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:chakourimad01@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Send an email" /></a>
+</p>
 
-## Tech Stack
+## Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,sql&theme=light)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,mysql&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, and MySQL" />
+</p>
 
-**Backend:** Java, Spring Boot, SAP CAP, REST APIs
+**Backend:** Java, Spring Boot, SAP CAP, REST APIs · **Frontend:** Angular, React, TypeScript · **Cloud:** SAP BTP, Azure · **Databases:** MySQL, Oracle
 
-**Frontend:** Angular, TypeScript, JavaScript, React, HTML5, CSS3
+## Featured Projects
 
-**SAP & Cloud:** SAP BTP, SAP CAP, Azure
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://banklink-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/bank-service-multi-connector" width="100%" alt="Multi-Connector Banking Service project preview" />
+      </a>
+      <h3>Multi-Connector Banking Service</h3>
+      <p>A banking platform with REST, SOAP, GraphQL, and gRPC APIs, built with Spring Boot and React.</p>
+      <a href="https://banklink-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/bank-service-multi-connector">Source code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://eventflow-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/eventflow-angular-springboot" width="100%" alt="EventFlow project preview" />
+      </a>
+      <h3>EventFlow</h3>
+      <p>A full-stack platform for managing events and marketing campaigns with Angular and Spring Boot.</p>
+      <a href="https://eventflow-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/eventflow-angular-springboot">Source code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://clinic-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/java-clinic-management-system" width="100%" alt="Smart Clinic Management System project preview" />
+      </a>
+      <h3>Smart Clinic Management System</h3>
+      <p>A clinic management app for doctors, patients, appointments, and prescriptions.</p>
+      <a href="https://clinic-imad.duckdns.org">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/java-clinic-management-system">Source code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ocp-group-procurement-full-stack.onrender.com/">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/ocp-group-procurement-full-stack" width="100%" alt="OCP Group Procurement project preview" />
+      </a>
+      <h3>OCP Group Procurement</h3>
+      <p>A procurement management application with a web frontend, FastAPI backend, and PostgreSQL.</p>
+      <a href="https://ocp-group-procurement-full-stack.onrender.com/">Live demo</a> ·
+      <a href="https://github.com/imad-chakour/ocp-group-procurement-full-stack">Source code</a>
+    </td>
+  </tr>
+</table>
 
-**Modeling:** BPMN 2.0, UML
+## Experience
 
-**Databases:** SQL, MySQL, Oracle
-
-**Tools & Practices:** Git, GitHub, Docker, CI/CD concepts, API Integration
+Developed a cloud-native employee services extension at OCP Group using Java, Spring Boot, SAP CAP, SAP BTP, Angular, and BPMN workflows.
 
 ---
 
-## Featured Project
-
-### ☁️ Cloud-Native Employee Services Extension
-
-**OCP Group | End-of-Studies Project · 2026**
-
-Developed a cloud-native extension on SAP BTP to manage employee services and benefits. I implemented backend business logic with Java, Spring Boot, and SAP CAP, modeled workflows using BPMN 2.0, and exposed REST APIs consumed by an Angular frontend.
-
-**Key Contributions:** Backend development · REST API design · Angular integration · BPMN workflow modeling · Scoring and eligibility automation
-
-**Technologies:** Java, Spring Boot, SAP CAP, SAP BTP, Angular, REST APIs, BPMN 2.0
-
----
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imad-chakour&theme=tokyonight&hide_border=true)
-
----
-
-## Currently Interested In
-
-* Building scalable backend applications with Java and Spring Boot.
-* Developing full-stack applications with Angular.
-* Exploring cloud-native architectures and DevOps practices.
-* Improving software quality, maintainability and application performance.
-
----
-
-## Let's Connect
-
-<a href="https://www.linkedin.com/in/imadchakour/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="chakourimad01@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
-</a>
-
----
-
-*Building reliable software, learning continuously, and turning business requirements into practical digital solutions.*
+<p align="center">Open to building thoughtful software and connecting with fellow developers.</p>
