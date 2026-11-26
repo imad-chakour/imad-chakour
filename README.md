@@ -5,7 +5,7 @@
 <p align="center">OCP Java SE 17 · Oracle Database 19c</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,linux,githubactions&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, Linux, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,docker,git,linux,githubactions&theme=light" alt="Java, Spring, Angular, React, Docker, Git, Linux, and GitHub Actions" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/imad-chakour/bank-service-multi-connector">
