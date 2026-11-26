@@ -22,38 +22,30 @@ Computer Science and Networks State Engineer specializing in MIAGE. I build usef
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <p align="center">
-        <a href="https://banklink-imad.duckdns.org">
-          <img src="https://opengraph.githubassets.com/1/imad-chakour/bank-service-multi-connector" width="100%" alt="Multi-Connector Banking Service project preview" />
-        </a>
-      </p>
-      <h3>Multi-Connector Banking Service</h3>
-      <p>A banking platform with REST, SOAP, GraphQL, and gRPC APIs, built with Spring Boot and React.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://banklink-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/bank-service-multi-connector" width="100%" alt="Multi-Connector Banking Service project preview" />
+      </a>
+      <h3>Banking Service</h3>
+      <p>Multi-protocol banking platform with Spring Boot and React.</p>
       <a href="https://banklink-imad.duckdns.org">Live demo</a> ·
       <a href="https://github.com/imad-chakour/bank-service-multi-connector">Source code</a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <p align="center">
-        <a href="https://eventflow-imad.duckdns.org">
-          <img src="https://opengraph.githubassets.com/1/imad-chakour/eventflow-angular-springboot" width="100%" alt="EventFlow project preview" />
-        </a>
-      </p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://eventflow-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/eventflow-angular-springboot" width="100%" alt="EventFlow project preview" />
+      </a>
       <h3>EventFlow</h3>
-      <p>A full-stack platform for managing events and marketing campaigns with Angular and Spring Boot.</p>
+      <p>Event and marketing platform with Angular and Spring Boot.</p>
       <a href="https://eventflow-imad.duckdns.org">Live demo</a> ·
       <a href="https://github.com/imad-chakour/eventflow-angular-springboot">Source code</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <p align="center">
-        <a href="https://clinic-imad.duckdns.org">
-          <img src="https://opengraph.githubassets.com/1/imad-chakour/java-clinic-management-system" width="55%" alt="Smart Clinic Management System project preview" />
-        </a>
-      </p>
-      <h3>Smart Clinic Management System</h3>
-      <p>A clinic management app for doctors, patients, appointments, and prescriptions.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://clinic-imad.duckdns.org">
+        <img src="https://opengraph.githubassets.com/1/imad-chakour/java-clinic-management-system" width="100%" alt="Smart Clinic Management System project preview" />
+      </a>
+      <h3>Smart Clinic</h3>
+      <p>Clinic app for managing patients, doctors, and appointments.</p>
       <a href="https://clinic-imad.duckdns.org">Live demo</a> ·
       <a href="https://github.com/imad-chakour/java-clinic-management-system">Source code</a>
     </td>
