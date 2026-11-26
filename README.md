@@ -13,7 +13,7 @@ Computer Science and Networks State Engineer specializing in MIAGE. I build usef
 ## Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,git,mysql&theme=light" alt="Java, Spring, Angular, React, Python, Docker, Git, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,python,docker,git,mysql&theme=light" alt="Java, Spring, Angular, TypeScript, React, Python, Docker, Git, and MySQL" />
 </p>
 
 **Backend:** Java, Spring Boot, SAP CAP, REST APIs · **Frontend:** Angular, React, TypeScript · **Cloud:** SAP BTP, Azure · **Databases:** MySQL, Oracle
@@ -22,19 +22,23 @@ Computer Science and Networks State Engineer specializing in MIAGE. I build usef
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://banklink-imad.duckdns.org">
-        <img src="https://opengraph.githubassets.com/1/imad-chakour/bank-service-multi-connector" width="100%" alt="Multi-Connector Banking Service project preview" />
-      </a>
+    <td width="50%" valign="top" align="center">
+      <p align="center">
+        <a href="https://banklink-imad.duckdns.org">
+          <img src="https://opengraph.githubassets.com/1/imad-chakour/bank-service-multi-connector" width="100%" alt="Multi-Connector Banking Service project preview" />
+        </a>
+      </p>
       <h3>Multi-Connector Banking Service</h3>
       <p>A banking platform with REST, SOAP, GraphQL, and gRPC APIs, built with Spring Boot and React.</p>
       <a href="https://banklink-imad.duckdns.org">Live demo</a> ·
       <a href="https://github.com/imad-chakour/bank-service-multi-connector">Source code</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://eventflow-imad.duckdns.org">
-        <img src="https://opengraph.githubassets.com/1/imad-chakour/eventflow-angular-springboot" width="100%" alt="EventFlow project preview" />
-      </a>
+    <td width="50%" valign="top" align="center">
+      <p align="center">
+        <a href="https://eventflow-imad.duckdns.org">
+          <img src="https://opengraph.githubassets.com/1/imad-chakour/eventflow-angular-springboot" width="100%" alt="EventFlow project preview" />
+        </a>
+      </p>
       <h3>EventFlow</h3>
       <p>A full-stack platform for managing events and marketing campaigns with Angular and Spring Boot.</p>
       <a href="https://eventflow-imad.duckdns.org">Live demo</a> ·
@@ -42,23 +46,16 @@ Computer Science and Networks State Engineer specializing in MIAGE. I build usef
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://clinic-imad.duckdns.org">
-        <img src="https://opengraph.githubassets.com/1/imad-chakour/java-clinic-management-system" width="100%" alt="Smart Clinic Management System project preview" />
-      </a>
+    <td colspan="2" valign="top" align="center">
+      <p align="center">
+        <a href="https://clinic-imad.duckdns.org">
+          <img src="https://opengraph.githubassets.com/1/imad-chakour/java-clinic-management-system" width="55%" alt="Smart Clinic Management System project preview" />
+        </a>
+      </p>
       <h3>Smart Clinic Management System</h3>
       <p>A clinic management app for doctors, patients, appointments, and prescriptions.</p>
       <a href="https://clinic-imad.duckdns.org">Live demo</a> ·
       <a href="https://github.com/imad-chakour/java-clinic-management-system">Source code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://ocp-group-procurement-full-stack.onrender.com/">
-        <img src="https://opengraph.githubassets.com/1/imad-chakour/ocp-group-procurement-full-stack" width="100%" alt="OCP Group Procurement project preview" />
-      </a>
-      <h3>OCP Group Procurement</h3>
-      <p>A procurement management application with a web frontend, FastAPI backend, and PostgreSQL.</p>
-      <a href="https://ocp-group-procurement-full-stack.onrender.com/">Live demo</a> ·
-      <a href="https://github.com/imad-chakour/ocp-group-procurement-full-stack">Source code</a>
     </td>
   </tr>
 </table>
