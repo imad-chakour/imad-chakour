@@ -29,7 +29,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/imad-chakour/bank-service-multi-connector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=bank-service-multi-connector&theme=github_dark&hide_border=true" width="100%" alt="Banking Service project preview" />
+        <img src="img/BankLink.png" width="100%" alt="Screenshot of the BankLink banking application" />
       </a>
       <h3>Multi-Connector Banking Service</h3>
       <p>A banking platform with REST, SOAP, GraphQL, and gRPC APIs, built with Spring Boot and React.</p>
@@ -38,7 +38,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/imad-chakour/eventflow-angular-springboot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=eventflow-angular-springboot&theme=github_dark&hide_border=true" width="100%" alt="EventFlow project preview" />
+        <img src="img/EventFlow.png" width="100%" alt="Screenshot of the EventFlow marketing campaigns application" />
       </a>
       <h3>EventFlow</h3>
       <p>An event and marketing platform built with Angular and Spring Boot.</p>
@@ -47,7 +47,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/imad-chakour/java-clinic-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imad-chakour&repo=java-clinic-management-system&theme=github_dark&hide_border=true" width="100%" alt="Smart Clinic project preview" />
+        <img src="img/Clinic.png" width="100%" alt="Screenshot of the Smart Clinic application" />
       </a>
       <h3>Smart Clinic</h3>
       <p>A clinic app for managing patients, doctors, and appointments.</p>
